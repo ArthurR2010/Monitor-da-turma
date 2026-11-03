@@ -8,9 +8,9 @@ Que bom que você chegou aqui! Este guia explica, passo a passo, como colocar o 
 
 ## 1. Antes de começar
 
-- [ ] Tenho uma conta no GitHub com a **autenticação em dois fatores (2FA)** ativada.
-- [ ] Li este CONTRIBUTING.md inteiro.
-- [ ] Li a seção [Regras de convivência](#6-regras-de-convivência).
+- [x] Tenho uma conta no GitHub com a **autenticação em dois fatores (2FA)** ativada.
+- [x] Li este CONTRIBUTING.md inteiro.
+- [x] Li a seção [Regras de convivência](#6-regras-de-convivência).
 
 Você **não é colaborador** deste repositório, então não consegue editar nada direto aqui. É por isso que vamos usar o **fork**: você trabalha na sua cópia e depois pede para a sua mudança entrar no mural da turma.
 
@@ -107,10 +107,10 @@ Depois de corrigir, responda o comentário do professor explicando o que você m
 
 O seu arquivo precisa ter:
 
-- [ ] **Um título** com `#` e o seu apelido.
-- [ ] **Um hobby.**
-- [ ] **Uma música ou um jogo favorito.**
-- [ ] **Uma meta para o curso.**
+- [x] **Um título** com `#` e o seu apelido.
+- [x] **Um hobby.**
+- [x] **Uma música ou um jogo favorito.**
+- [x] **Uma meta para o curso.**
 - [ ] Pelo menos **uma lista** (`-`) e **um trecho em negrito** (`**texto**`).
 
 E **não pode** ter:
