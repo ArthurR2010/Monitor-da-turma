@@ -111,7 +111,7 @@ O seu arquivo precisa ter:
 - [x] **Um hobby.**
 - [x] **Uma música ou um jogo favorito.**
 - [x] **Uma meta para o curso.**
-- [ ] Pelo menos **uma lista** (`-`) e **um trecho em negrito** (`**texto**`).
+- [x] Pelo menos **uma lista** (`-`) e **um trecho em negrito** (`**texto**`).
 
 E **não pode** ter:
 
